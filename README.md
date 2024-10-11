@@ -1,0 +1,2 @@
+--> An analog clock usine pure JS
+--> The clock png can be found in ClockPng file
